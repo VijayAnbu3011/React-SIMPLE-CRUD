@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.squareBaody{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px;
+    justify-content: center;
+    align-content: center;
+    display: grid;
+    place-content: center;
+}
+.squareContent{
+    text-align: center;
+}
